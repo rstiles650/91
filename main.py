@@ -1,4 +1,4 @@
-# for the LociGraph Web App on Azure
+# for the LociGraph Web App on Azure App Service
 
 from typing import Union
 from fastapi import FastAPI
