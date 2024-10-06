@@ -1,4 +1,5 @@
 # for the LociGraph Web App on Azure
+
 from typing import Union
 from fastapi import FastAPI
 from fastapi import Request
